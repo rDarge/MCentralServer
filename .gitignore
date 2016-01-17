@@ -1,0 +1,8 @@
+.DS_Store
+/out
+/lib
+/.idea
+*iml
+*.iml
+*/build
+.idea/uiDesigner.xml
